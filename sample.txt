@@ -1,6 +1,4 @@
 Welcome
 Welcome
-<<<<<<< HEAD
+Hello 
 Hello1
-=======
->>>>>>> parent of b67bc31... added  Hello and hello1
